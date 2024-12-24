@@ -16,6 +16,9 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
     implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.2.0")
+    implementation("io.insert-koin:koin-core:3.4.0")
+    implementation("io.insert-koin:koin-logger-slf4j:3.4.0")
+    implementation("co.touchlab:kermit:2.0.4")
 }
 
 tasks.test {

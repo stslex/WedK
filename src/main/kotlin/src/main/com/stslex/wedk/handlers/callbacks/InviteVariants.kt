@@ -1,4 +1,4 @@
-package src.main.com.stslex.wedk.callbacks
+package src.main.com.stslex.wedk.handlers.callbacks
 
 enum class InviteVariants(
     val callbackName: String,
