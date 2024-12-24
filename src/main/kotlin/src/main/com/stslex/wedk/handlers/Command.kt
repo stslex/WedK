@@ -1,4 +1,4 @@
-package src.main.com.stslex.wedk.commands.core
+package src.main.com.stslex.wedk.handlers
 
 interface Command {
 
